@@ -1,0 +1,383 @@
+Text,Label,approved?
+"Well, thank you.",ft,yes
+Thank you.,ft,yes
+Hi.,fp,yes
+"Well, thank you.",ft,yes
+Thanks.,ft,yes
+Hello Ann.,fp,yes
+Hello Chuck.,fp,yes
+Hello?,fp,yes
+Hello.,fp,yes
+How you doing?,fp,yes
+Fine.,fp,no
+Hi,fp,yes
+Hi.,fp,yes
+"well, thank you.",ft,yes
+Hello?,fp,no
+Hi.,fp,yes
+"Hi,",fp,yes
+"Hi,",fp,yes
+Thanks.,ft,yes
+"Hello, Lynn.",fp,yes
+Thanks.,ft,yes
+Hi.,fp,yes
+Hi.,fp,yes
+I'm sorry.,fa,yes
+"Um, hello, um,",fp,yes
+And I'm sorry,fa,yes
+"Sorry,",fa,yes
+I'm sorry.,fa,yes
+Hi.,fp,yes
+Hi.,fp,yes
+I'm sorry.,fa,yes
+I'm sorry.,fa,yes
+"excuse me, I've got a cold today.",fa,yes
+Thank you.,ft,yes
+"well, I'm sorry I interrupted, um,",fa,yes
+Hi.,fp,yes
+"Sorry about that,",fa,yes
+"I'm sorry,",fa,yes
+"Excuse me, my throat's not as clear today as it should be.",fa,yes
+Hello.,fp,yes
+"actually, I'm sorry, not until,",fa,yes
+Thank you.,ft,yes
+Sorry about that.,fa,yes
+"Well thanks for being home, uh, on the weekend,",ft,yes
+Hello.,fp,yes
+"or, I am sorry,",fa,yes
+"Hi, Clarice.",fp,yes
+And a very good afternoon to you.,fp,yes
+"And aft-, good afternoon to you.",fp,yes
+sorry about my mind.,fa,yes
+"Afternoon, Doug,",fp,yes
+"it certainly is, uh, going to be a pleasure to chat with you.",fp,yes
+Excuse me.,fa,yes
+Hi,fp,yes
+"Hi,",fp,yes
+"Hi, Kay.",fp,yes
+Hi.,fp,yes
+"I'm sorry,",fa,yes
+I'm sorry,fa,yes
+"I'm sorry for these beeps,",fa,yes
+"Well thanks,",ft,yes
+"thanks for the tip, Jim.",ft,yes
+Welcome to the net,fp,yes
+"I'm sorry, I dropped the phone",fa,yes
+"Oh well, thanks.",ft,yes
+"You know, I'm sorry,",fa,yes
+"Brian in Plano, Texas. How are you doing today?",fp,yes
+"Hi,",fp,yes
+"fine,",fp,yes
+"Hello,",fp,yes
+"my name is Donna,",fp,no
+"and I'm calling from Plano, Texas.",fp,no
+"Hi,",fp,yes
+"this is Laurie,",fp,no
+and I'm in Garland,fp,no
+Thanks.,ft,yes
+"I'm sorry,",fa,yes
+"Well I really appreciate all the helpful tips,",ft,yes
+"excuse me,",fa,yes
+Hi.,fp,yes
+"Hi,",fp,yes
+How you doing?,fp,yes
+Pretty good.,fp,yes
+Good.,fp,yes
+I beg your pardon.,fa,yes
+Hello,fp,yes
+Hello,fp,yes
+Hi.,fp,yes
+Hi.,fp,yes
+My name's Gail.,fp,no
+I'm calling from Texas.,fp,no
+I'm Sandy.,fp,no
+"I'm in Texas, too.",fp,no
+"Thanks,",ft,yes
+"I'm sorry,} excuse me,} that,",fa,no
+"Fine,",fp,yes
+thank you.,ft,yes
+Thanks a lot.,ft,yes
+Hi,fp,yes
+thank you.,ft,yes
+"Well, thanks,",ft,yes
+"Thanks,",ft,yes
+And I thank you.,ft,yes
+Excuse me.,fa,yes
+Thanks a lot.,ft,yes
+thank you Salina.,ft,yes
+"I'm sorry, this, I really feel strongly about this.",fa,yes
+"my mother, excuse me.",fa,yes
+"Uh, well, thank you.",ft,yes
+Thank you.,ft,yes
+"{A thank you, I'm sorry, I just got home from work",fa,no
+Sorry,fa,yes
+excuse me.,fa,yes
+"Well, I'm sorry",fa,yes
+"Hi,",fp,yes
+I'm sorry,fa,yes
+Hi Diana.,fp,yes
+Hi,fp,yes
+"Hi,",fp,yes
+how are you today?,fp,yes
+I'm great,fp,yes
+Good.,fp,yes
+Oh thanks,ft,yes
+thank you.,ft,yes
+Hello.,fp,yes
+Hi.,fp,yes
+Hi.,fp,yes
+"My name is, uh, Donna Donahue,",fp,no
+"and I live in Plano, Texas.",fp,no
+Hi.,fp,yes
+"My name is Lowell,",fp,no
+"and I live in Raleigh, North Carolina.",fp,no
+Didn't mean to cut you off there.,fa,yes
+sorry.,fa,yes
+I'm sorry,fa,yes
+I'm sorry I keep coughing.,fa,yes
+sorry.,fa,yes
+I am sorry.,fa,yes
+Hi Norma.,fp,yes
+Hi.,fp,yes
+"Hi,",fp,yes
+Hello.,fp,yes
+"Hi,",fp,yes
+good morning.,fp,yes
+Good morning.,fp,yes
+Thanks.,fa,yes
+<<Speaker is talking to someone in background>>. Sorry.,fa,yes
+Hello.,fp,no
+"Oh, I'm sorry",fa,yes
+Hello.,fp,yes
+sorry about that,fa,yes
+Excuse me.,fa,yes
+"well, thanks so much.",ft,yes
+Hi.,fp,yes
+"Hi,",fp,yes
+Hi.,fp,yes
+Hi.,fp,yes
+"pardon the terminology,",fa,yes
+Thank you <<long pause>>.,ft,yes
+I am so sorry to keep you on hold.,fa,no
+Hi.,fp,yes
+Hi.,fp,yes
+"Hey, well thanks for the call.",ft,yes
+thanks <</TV and background noise>>.,ft,no
+"I'm sorry,",fa,yes
+Hi <<very faint>>.,fp,no
+"well thanks a bunch,",ft,yes
+hey thanks so much.,ft,yes
+"thank you,",ft,yes
+"Hey thanks a lot,",ft,yes
+"thank you,",ft,yes
+"Oh, thank you.",ft,yes
+And thanks for calling.,ft,yes
+Thanks.,ft,yes
+"Well, thanks,",ft,yes
+Hello.,fp,yes
+Hello,fp,yes
+"Well, thank you.",ft,yes
+Hi.,fp,yes
+"<<sounds like child's record>> Hi,",fp,no
+"I'm Carol,",fp,no
+"and I'm calling from Garland, Texas.",fp,no
+this is (( )),fp,no
+I'm in Dallas.,fp,no
+"How you doing, Howard?",fp,yes
+Hi.,fp,yes
+Thank you <<Talking to someone else in background>>.,ft,no
+I'm sorry.,fa,yes
+Thanks for call.,ft,yes
+"thank you,",ft,yes
+Sorry I roped on Volvos then,fa,yes
+Sorry I roped on Volvos then.,fa,yes
+thanks.,ft,yes
+"Amy, how are you doing today?",fp,yes
+"Fine,",fp,yes
+fine.,fp,yes
+thanks a lot.,ft,yes
+"Mike, I'm calling from Dallas, from Richardson.",fp,no
+I'm in Addison here.,fp,no
+(( thank you )) .,ft,no
+thanks.,ft,yes
+Hello.,fp,yes
+Hello.,fp,yes
+My name is Nola.,fp,no
+"I'm in Plano, UNK> Texas.",fp,no
+"Hi Nola,",fp,yes
+I'm Steve.,fp,no
+"I'm in Dallas, Texas.",fp,no
+Hi.,fp,yes
+Hi.,fp,yes
+"I'm sorry,",fa,yes
+"an, and thanks for participating.",ft,yes
+and thank you for calling.,ft,yes
+Thank you very much.,ft,yes
+Oh. Thank you very much,ft,yes
+Thank you.,ft,yes
+Hello.,fp,yes
+"Hello,",fp,yes
+Hi.,fp,yes
+Hello,fp,yes
+this is Lois.,fp,no
+"Hi,",fp,yes
+"hi,",fp,yes
+this is Lisa.,fp,no
+"Well, thanks for calling",ft,yes
+"Hi, Nancy.",fp,yes
+I'm sorry.,fa,yes
+Thank you very much.,ft,yes
+Thanks for punching in,ft,yes
+"sorry,",fa,yes
+Hello?,fp,yes
+I'm so sorry.,fa,yes
+Hey Steve.,fp,yes
+I hate to do it on this call.,fa,no
+"I'm sorry,",fa,yes
+Hello.,fp,yes
+Hello.,fp,yes
+"Hi,",fp,yes
+my name is Dolphene.,fp,no
+I live in Texas.,fp,no
+"Hi,",fp,yes
+my name is Pat Johnson,fp,no
+"and I live in Te-, Texas too.",fp,no
+excuse me.,fa,yes
+Hello.,fp,yes
+Hello.,fp,yes
+"Hey, how you doing?",fp,no
+"Not bad,",fp,no
+not bad.,fp,no
+What's your name?,fp,no
+Fernando.,fp,no
+My name is Nick.,fp,no
+I'm sorry.,fa,yes
+"Well, thank you",ft,yes
+Thanks.,ft,yes
+Hello.,fp,yes
+Hi.,fp,yes
+Good morning,fp,yes
+Good morning.,fp,yes
+"sorry,",fa,yes
+Hi.,fp,yes
+"Hi,",fp,yes
+Thank you. UNK>,ft,no
+Thanks UNK>.,ft,no
+Excuse me.,fa,yes
+Hello.,fp,yes
+"Hello,",fp,yes
+this is Jim in Dallas.,fp,no
+"Uh, how you doing?",fp,no
+Fine.,fp,yes
+I'm Callie in Garland.,fp,no
+I'm sorry.,fa,yes
+Good morning.,fp,yes
+Hi.,fp,yes
+My name is Jean.,fp,no
+I'm Tina.,fp,no
+Hello,fp,yes
+Hi,fp,yes
+"Hi,",fp,yes
+"My name's Ken,",fp,no
+"Hi Ken,",fp,yes
+my name's Diane.,fp,no
+"Thank you,",ft,yes
+<<Long pause>> <<Voices in background>> Thank you.,ft,no
+"Hi, this is Judy,",fp,yes
+I'm from Maryland,fp,no
+and I'm in California visiting right now.,fp,no
+"Hi, Judy.",fp,yes
+"This is Norma,",fp,no
+and I live in Virginia,fp,no
+"Hi,",fp,yes
+how you doing Kevin?,fp,no
+"Fine, thanks",fp,yes
+Good morning.,fp,yes
+Good morning.,fp,yes
+I'm sorry.,fa,yes
+"Thank you,",ft,yes
+Thank you.,ft,yes
+Hi.,fp,yes
+How are you doing?,fp,no
+"I said, how are you doing?",fp,no
+I'm doing fine.,fp,no
+Hi Ed.,fp,yes
+Hi.,fp,yes
+Hi.,fp,yes
+Thank you.,ft,yes
+Hi Pat.,fp,yes
+Hi.,fp,yes
+Thank you.,ft,yes
+thank you.,ft,yes
+"well, thank you very much.",ft,yes
+"Hi, Maureen.",fp,yes
+How are you?,fp,no
+All right.,fp,yes
+<<A answers the other line>> <<long pause>>. Hello sir <<A comes back to speaker B>>,fp,no
+Yes.,fp,yes
+"Yes,",fp,yes
+I'm sorry to keep you waiting,fa,yes
+Well thanks a lot.,ft,yes
+"Well, hi.",fp,yes
+Thank you for noticing,ft,yes
+I'm sorry,fa,yes
+"Thank you,",ft,yes
+I'm sorry.,fa,yes
+Hello.,fp,yes
+Hello.,fp,yes
+"Hello,",fp,yes
+"Hello,",fp,yes
+Hi.,fp,yes
+Hello.,fp,yes
+"Yes,",fp,yes
+Thank you.,ft,yes
+"Well, good afternoon to you, Mary.",fp,yes
+Thank you,ft,yes
+Hello.,fp,yes
+Hello,fp,yes
+"Hi, um,",fp,yes
+this is Betty,fp,no
+I'm Nola,fp,no
+"Well, hi,",fp,yes
+Hi.,fp,yes
+"Good morning. Um,",fp,yes
+"So, it's nice to talk with you",fp,yes
+"thanks for that, uh, reference.",ft,yes
+"And primarily, I mean, I, now I'm probably going to, going to upset you.",fa,no
+"Hi,",fp,yes
+this is Donna Donahue.,fp,no
+"Hi, Donna.",fp,yes
+Hi.,fp,yes
+"Oh, I'm sorry.",fa,yes
+"Well anyway, I'm sorry",fa,yes
+"Oh, I'm sorry.",fa,yes
+This is Archie.,fp,no
+"Hi, Archie.",fp,yes
+I'm Sharon.,fp,yes
+Sorry.,fa,yes
+"<<Covers the phone and talks to child>> Sorry,",fa,no
+sorry.,fa,yes
+"I'm sorry,",fa,yes
+Hi.,fp,yes
+"UNK> Hi, uh,",fp,no
+Hello.,fp,yes
+Hello there.,fp,yes
+So hello Mary.,fp,yes
+"Hi,",fp,yes
+"my name is Donna,",fp,no
+"and I'm calling, calling from Plano, Texas.",fp,no
+I'm Jay in Dallas.,fp,no
+"I'm sorry, um",fa,yes
+"and I apologize if you're a bird lover,",fa,yes
+I'm sorry.,fa,yes
+Sorry for the delay.,fa,yes
+"Thank you, ma'am.",ft,yes
+I'm sorry,fa,yes
+"Hi, Wanet <<this is his last name>>.",fp,no
+How are you?,fp,no
+I'm doing fine.,fp,no
+thanks.,ft,yes
+thanks.,ft,yes
+"Oh, pardon me,",fa,yes
+Hello.,fp,yes
+"Hi, uh,",fp,yes

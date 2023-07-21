@@ -1,0 +1,641 @@
+﻿text,label,participant_id
+ Alright. ,ack,1
+Ah {personName}. ,sno,1
+Oh,ack,1
+ Yes.,y,1
+ Yes.,y,1
+ If you gotta work fast when you shipping Mail.,sno,1
+ No.,n,1
+OK.,ack,1
+ Coding.,sno,1
+ Art and science.,sno,1
+ Well  they weren't really as good.,sno,1
+ I participated in the marching band an in ROTC.,sno,1
+ Well  I want to.,sno,1
+ A little bit good.,sno,1
+ My name is Mr Warlock an eye. My super powers are. Super powers. Remote. Fight things with my mind. My arch nemesis. Arch nemesis are. The people who would be the people.,sno,1
+ No matter how stubborn.,n-d,1
+ I draw I play music.,sno,1
+ Mistake. I would.,sno,1
+ Well. Kind of dealt with a lot of team members and sometimes some have lost  lost my temper and said things probably should've said.,sno,1
+ I don't really. I don't really know  but I'm pretty sure I handle it like a man.,dno,1
+ In a way where.,sno,1
+ No  but I love to get one.,n-d,1
+ How do you do this?,query,2
+ Is that's going  my name is {personName}. ,sno,2
+My name is {personName}. ,sno,2
+I'm here for the job interview.,sno,2
+ Nice to meet you too. ,fp,2
+Yes  ma'am.,y,2
+ Yes  ma'am I do.,y,2
+ Yes  ma'am I do. ,y,2
+No ma'am  I don't. ,n,2
+I mean  no ma'am  I don't.,so,2
+ Yes ma'am.,y,2
+ I used a Microsoft.,sno,2
+ Maybe like at 8 or 9?,sno,2
+ For about a few years.,sno,2
+ Microsoft with numbers and words both.,sno,2
+ Very proficient.,sno,2
+ Ma'am a couple of years.,sno,2
+ A couple hours.,sno,2
+ Like 2 hours ma'am.,sno,2
+ Yes  ma'am I will.,y,2
+ Oh,ack,2
+ I enjoyed math. Math is my best subject  ma'am.,sno,2
+ Because numbers just are better for me and I in reading. It's just not my best subject.,sno,2
+ I got like a zombies.,sno,2
+ Yes  an I did beta club interact Club and Anchor Club and now I'm in college and I'm in an owners club called Died Theta Kappa.,y-d,2
+ To be honest  math.,sno,2
+ Well  I think I should be able to read more. I should be able to. Learn about more computer work. To be honest  do work on getting better at it.,so,2
+ I feel like I'm doing good.,so,2
+ My superpower is doing makeup and hair.,sno,2
+ Well  I need to they ask. The best advice is to learn how to cut hair. You do it with your right hand to your left hand. Yeah  and you do the scissors with your right hand and the comb with your left hand.,sno,2
+ Because. One second. Because it just helps me out with lots of things.,sno,2
+ What planet to be a cosmotologist in an esthetician?,query,2
+ Yes.,y,2
+ Well  I work with someone I didn't like.,sno,2
+ I would just learn. To deal with it  try to make peace with the person and this I know you have to work with people you don't like  so you're going to have to learn to deal with it.,sno,2
+ Well  I tried to be nice to them. And they tried being nice to me when I've been nice to them.,sno,2
+ Well  I just tried to get the haircut that they wanted. So so it manage.,sno,2
+ It was really tough.,sno,2
+ Yes  ma'am I do.,y,2
+ Well. ,sno,2
+ What will I be doing if I'm hired?  Well  we'll be doing when I'm hired. What will what?  What can I do to make it more successful? ,query,2
+ No  ma'am.  ,n,2
+Thank you very much. ,ft,2
+ Is it asking me like {personName}?,query,3
+Do I say it again or?,query,3
+ Did it not pick up? ,query,3
+My name is {personName}.,sno,3
+ Just hit the spacebar.,sno,3
+ I worked as a someone who used to work in maintenance back in 2016 and prior to that I was a childcare assistant for New Hope Academy.,sno,3
+ Essentially  I would help clean bathrooms and trash cans and essentially. Move things around that needed to be moved around. Circulate items such as toilet paper and. Soap and whatnot and for the childcare assistant I would help children after daycare for my school.,sno,3
+ I've had some experience with Dragon  which is essentially a. Voice to text conversion software that allows people to talk into the microphone and puts the processes the words essentially. I've had some good. Some good experience with it and I think I could be very helpful to the organization.,sno,3
+ I would say that my skills are pretty basic. For the most part  but I think they are pretty exceptional. Not exactly advanced per se  but. Um? I could still learn from a bit more.,so,3
+ I've been using word processing software for approximately maybe six years now. I'd say. About six years.,sno,3
+ I haven't exactly used much Apple software when it comes to typing. I've only really been using Windows and word. But that's basically it.,sno,3
+ I'm I've been using word for probably about 12 years now. I used to work on the computer a lot when I was a child and. The word processing unit has shown great capability towards work environment.,sno,3
+Uh.,ack,3
+Define spreadsheet.,sno,3
+ If I had to answer that  it would probably be around maybe three or four years since I started college.,sno,3
+ I suppose working with spreadsheets for about 15 hours would. Benefit my schedule.,y,3
+ I helped. Other people in college with an assignment and essentially. I think I did a pretty good job. It was a team bonding thing. And. I'd say that I did a pretty good job at it. Not  I don't mean to gosh  but.,sno,3
+ Most enjoyed it in school. Well  that's a difficult question because there's a lot of areas in school that I find interesting. History was one of my big ones. I'd also have to say that literature and grammar was important to me. Spelling and whatnot reading. Um? I was not very good at math. Math is one of my unfortunate flaws. I'm not very good at math. But everything else I seem to be pretty much OK with.,sno,3
+ Um? ,ack,3
+ Yeah  I again  I'm not very good at math. ,y-d,3
+But I don't know.,dno,3
+I guess there are some interesting things about it that help me to understand.,dno,3
+More about life situations  I suppose,dno,3
+ In most of my classes  surprisingly  I got A's and B's all but in the math section in the math section I had. Uh. These at the most. I was never really good at it  but I got through somehow.,sno,3
+ I was in homec for awhile and it was pretty interesting. Um? Some other classes may include taking German. I took German for a little while. It didn't really last long  but. It helped some. I do know some.,sno,3
+ I'd say my greatest personal attribute would be helpfulness and maybe kindness. I always try to be as kind as I can to other people to help them get what they need. But I'm also persistent in trying to pursue. Um? What it is that I want out of a job? And I can tell this would be a great thing to put my strengths towards.,sno,3
+ Well. For one thing  my people skills sometimes aren't as great as I'd like them to be  and I think that maybe through this I could experience. Um? More. Openness about my condition and maybe perhaps find. I don't know  just something. Just hopefully this. Job if I do get it will be. Beneficial towards my situation.,so,3
+ I'd say. I'm doing. Alright  so far in this interview. I. Probably could be better. But I think that I've done a pretty good job so far.,so,3
+ Um? Let's see. Definitely not Superman  that one's taken. Um? That's a good question  actually. I don't know what my name would be as a superhero. Uh. For superpower though  I'd guess maybe time travel. That would be a pretty cool power to have. Go back in time and fix things before they happen. Um? And my arch nemesis is. Algebra man.,sno,3
+ Best advice from a mentor that I've ever received. That's also really. Really big question. Um? 46 times stand up when it fall 7 times stand up. Eight was probably one of the best. Words of advice that I've received before.,sno,3
+ It tells me to keep pushing forward despite adversity and despite difficulty  and I think that. Applying for a job when you have Aspergers syndrome  it can be difficult at times  so it's best to. Best to. Push forward anyway. Despite the uncomfortable  the feeling of discomfort that you might have.,sno,3
+ My ideal work environment is relaxed and laid back  but also. I'd say. Laid back but at the same time also nurturing and nurturing environment. When and also understanding environment. Would probably be more beneficial towards someone like me.,sno,3
+ I had to make a difficult decision. I think when I was working as a childcare assistant. I had to. It was a really rushed decision  but a child was in need of. Assistance after they had. Um? Yeah  I don't think I want to go through with the rest of that.,so,3
+ Um? I did get into. I did have to get out of my comfort zone this one time and. Sometimes it can be overwhelming  but sometimes it needs to be done to see how much. What my limit is in a work environment? Um? No stories come to mind at the moment  but. I'd have to say that I have been to that place before. And it's not an easy Rd to go down on when you have Aspergers.,sno,3
+ Try to correct it immediately. Be honest and assertive. But also understanding that we all make mistakes.,sno,3
+ Um? I suppose there was this one time where I had to work with another student. Who? I guess we didn't see eye to eye exactly on everything  so I was stuck mostly with the work. I got through it. But it was pretty stressful. I just made sure that I told them exactly what was going on and made sure that they. Knew exactly what? My plans were. For this assignment  and then just told them straight up. What needed to happen?,sno,3
+ I think I remember they switched programs this one time in another class that I took. And it was difficult getting used to  so I had to. Learn the thing. Learn the. The. I had to learn the program very quickly. And. It wasn't something that was exactly used to because I'm used to Windows  but. We had to adapt  and so I did.,so,3
+ I think. A diverse group. I had to work with a diverse group in. I think the first college class that I ever went to. It was interesting to say the least  but at the same time it was also kind of difficult because we weren't on the same page with each other. Um? But I worked around it and got through it.,so,3
+ Yes I do. I don't exactly have a. Well  it's more of a permit actually. Um? But I guess legally  you could say that I do have a drivers license. It's more of a permit though.,y-d,3
+ What exactly? ,query,3
+ SG-1. {personName} net.,sno,4
+ Sounds good to me.,sno,4
+ Yes ma'am. ID yes ma'am ID.,y,4
+ I used to work at a grocery store at Publix  down the Shore Pike for about four years.,sno,4
+ I have no experience with that man. Not yet at least.,n-d,4
+ I still use Apple at Microsoft  so I use both.,sno,4
+ I say I'm very well at it.,sno,4
+Not the best  but I'm very well at it.,n-d,4
+ For Bellevue months.,sno,4
+ 44 hours.,sno,4
+alright,ack,4
+Oh,ack,4
+ I would say math.,sno,4
+ I would say to want more challenging.,sno,4
+ For one  I got a seat  but first dyesol bees and 1A.,sno,4
+ I see.,ack,4
+ He would be the question again please.,query,4
+You might repeat that again  please,query,4
+Oh danger.,fe,4
+I have no idea to be honest.,sno,4
+Oh I gotta figure this out.,sno,4
+ Say I'm more of a type of funny guy and I do music for living so.,sno,4
+ To be more focused on my task  instead of doing something else  I talk into my friends and stuff like that.,sno,4
+ I would say it's going pretty swell  I think.,so,4
+ My name is {personaName}.,sno,6
+ Yes  ma'am.,y,6
+ Um? I do job training at. Clogher I do. Job training at Clogher.,sno,6
+ Well  what we do there? Is we clean? The break room? We wash the tables  clean the sinks. We wash. The tables. We clean the sinks. And clean the microwaves. And then we head in. Head in. To the store. And clean milk doors.,sno,6
+ I have used Microsoft Word.,sno,6
+ I do I have used. Microsoft Excel.,sno,6
+um,ack,6
+ I don't remember any project that I've worked on.,dno,6
+ I really enjoyed math.,sno,6
+ Well. Addition and subtraction. Will probably. Will probably. Adding and subtracting. Well  my favorite multiplying and dividing. Word. Not worth. Were not. Really my favorite.,sno,6
+ I did not participate in any.,n,6
+ I do not know.,dno,6
+ My kindness.,sno,6
+ Let's say probably an 8. ,sno,6
+ I mean very well.,so,6
+I think I'm doing well.,so,6
+ Superman. My superpower would be flying. And. My arch nemesis. Would probably be no one.,sno,6
+ Do your best at your job.,sno,6
+ Because I know. I can do very well at my job.,sno,6
+ I have none.,n,6
+ I cannot.,n,6
+ I don't remember any times.,dno,6
+Well  I was not in my comfort zone.,sno,6
+ I would. Tell you what the correct answer is.,sno,6
+ I said  hey? There might be a better solution. To this problem.,sno,6
+ I don't remember anytime.,dno,6
+ I never have worked with a diverse group.,n,6
+ They will. They will. They were. A great team to work with.,sno,6
+No ma'am,n,6
+No ma'am,n,6
+{personName},sno,7
+ Yes.,y,7
+ No.,n,7
+ No.,n,7
+ None.,n,7
+oh,ack,7
+ From school on teamwork.,sno,7
+ Social studies and. Imagine native writing. And.,sno,7
+ Because of the history in culture and the people we learned about.,sno,7
+ 90s and. 85,sno,7
+ none.,n,7
+ What do you mean?,query,7
+ My learning skills.,sno,7
+ {personName}.,sno,7
+ I don't know.,dno,7
+But for the powers Hydrokinesis is Superstrength and shadow clones.,sno,7
+And my arch enemy would be.,sno,7
+ I don't know.,dno,7
+ I'm not sure.,dno,7
+ I'm not sure.,dno,7
+ When I was on summer vacation.,sno,7
+ When I was at Boot camp but I just had to make the most of it.,sno,7
+ Helping,n,7
+ have I never had a problem?,n,7
+ I never managed to help.,n,7
+ By just being myself.,sno,7
+ 'cause we were working on the team.,sno,7
+ No.,n,7
+ No man. ,n,7
+{personName}.,sno,9
+Yes.,y,9
+ Yes. Yes.,y,9
+ I worked as a dishwasher at Cracker Barrel.,sno,9
+ Yes  I've used Microsoft Word and Google Docs.,y-d,9
+ Yes  I have used Google Sheets and Microsoft Excel.,y-d,9
+ I worked on an engineering design project where I helped design A wind turbine with a group of other students and I learn leadership skills by helping organize our meetings and helping encourage them to work hard. And I also learn technical skills because I help do the transmission. For the wind turbine.,sno,9
+ Math.,sno,9
+ Math is my favorite subject because. I really like quantitatively investigating how things work.,sno,9
+ I got mostly A's in my classes.,sno,9
+ Yes  I put icipe tyddyn science Olympiad in high school. And. In college I've been participating in the EM RADS program  which is a research program.,y-d,9
+ I'm poster viewing.,sno,9
+ Probably my communication skills.,sno,9
+ I'm performing alright  I think.,so,9
+ My name is. Super Cat. And. My superpower is being able to see through everything and my archnemesis is evil cat.,sno,9
+ Mypillow mentor in. Told me that no matter what  you shouldn't. Worry about. Success or failure. You should just. Try hard to do the best you can.,sno,9
+ My ideal work environment is somewhere. Well  I can succeed while still being around other people and. Well  I can focus without being nervous.,sno,9
+ Or one time? In when I was at Cracker Barrel as a dishwasher  I had to. Decide. Otherwise  I would stand up to one of my coworkers who wasn't being very respectable of me  so that was difficult.,sno,9
+ I was out of my comfort zone when I had to lead a campus tour. Of that North campus at Michigan? Because I wasn't really sure what to say and I handled it just by talking about all of the buildings we were passing by and just relaxing.,sno,9
+ I would respectfully make sure that the person who you're talking to has the correct revenue man Blue. I would say wait  Are you sure that was the correct Ave number? I thought it was. This other number.,sno,9
+ Yes  in my chem E 2 three class we were doing a project we will. Researching a design process and one of my team members was kind of complaining about how hard everything was and how she. Didn't know what she was doing an I just helped to encourage her to say you can. You can do it.,y-d,9
+ I had to manage change when I went from high school to college because when you go from high school to college  you living in a dorm and you not at home anymore and the academics get more difficult and there's more pressure and I handled it just by trying hood and making sure I I was balanced and studied a lot. But at the same time felt found time for self care.,sno,9
+ I work with a diverse group in my classes  like for example my chemical engineering class with I work with. People from lots of different backgrounds and that that helps. So we have more. Ideas 'cause they get? People have different ideas when they come from different backgrounds.,sno,9
+ Yes  it was successful because we not only got the project done  but we did a good job presenting an one of the reasons was because we worked hard. Is another reason is because. Everyone had different ideas.,y-d,9
+ Yes  I do have a drivers license.,y,9
+ Yes  how do you?  Keep everyone encouraged to do the best on the job. ,query,9
+ Yes. ,y,9
+What is the most exciting part of your job? ,query,9
+ What kinds of programming languages do you use? ,query,9
+ No  I don't have any other questions.,n,9
+ Thank you. ,ft,9
+{personName} will. OK hello. OK. Hello.,sno,10
+ see seamless omegle. I don't know. Yes  this sounds good  sorry. Yes  that's oh  wait  press that.,sno,10
+ Kind of.,sno,10
+ Working in your kitchen. With others in the kitchen.,sno,10
+ I don't know question Mark.,dno,10
+ I didn't see that  Oh my God. A Microsoft Word. Microsoft Word.,sno,10
+ Yes  I can repeat that.,y,10
+ {personName}. Oh no math.,sno,10
+ He 'cause once in twos. 2 + 2 is 4.,sno,10
+ 100%.,sno,10
+ Activities like bowling.,sno,10
+ YouTube.,sno,10
+I'm just kidding.,sno,10
+ YouTube.,sno,10
+I don't know.,dno,10
+ Believe the unexpected.,sno,10
+ Splendid.,so,10
+ Mr {personName}.,sno,10
+ Great job. He's good. Great job.,sno,10
+ Cancel question mark. Oh  speak clearly. Question mark.,sno,10
+ The. The world. Accomplish. Accomplishment. Exploracion,sno,10
+ Going to the other room.,sno,10
+ Wait until after the meeting.,sno,10
+ Dinner. Worry about it.,sno,10
+Money change. Question mark. Money. Change. Anne. Repeat that.,sno,10
+ At the first group. Repeat again.,sno,10
+Are handling it differently?,query,10
+ Working on it.,sno,10
+ What is this face place about? ,query,10
+How's your day? ,query,10
+ What times? ,query,10
+What should I wear? ,query,10
+ Do you guys get to cook anything? ,query,10
+ Thanks for meeting. ,ft,10
+ Conversations. ,sno,10
+ Do I receive a call back? How many weeks? ,query,10
+ Christmas schedule. ,sno,10
+ Oh  how are you?,fp,11
+{personName}.,sno,11
+ Yeah  sounds good.,y,11
+ Yeah  I work at a. And like culinary.,y-d,11
+ Pretty much like I pack up food and stuff like I sometimes do some cooking. As I used to do and I also do that my job.,sno,11
+ Yeah I have a lot of experience with the word like the word things like you know PowerPoint  Excel spreadsheets. And yeah.,y-d,11
+ I read about us a solid 810  not really like a super genius idea. But yeah  solid 8 out of 10.,sno,11
+ Really all my life 'cause I always. But I had like a project or something always used it so. About 13 years maybe.,sno,11
+ Like I said before  I am experience with Microsoft Excel.,sno,11
+let me,sno,11
+ Let me finish. Well  I like outdoor cover movie for once and I guess I learned a lot of team building 'cause they required a lot of spreadsheet uses of what people are going to do work for the script. Yeah yeah.,sno,11
+ I say like social studies in history.,sno,11
+ I don't know.,dno,11
+I just like learning about the past and stuff. ,sno,11
+I guess interest me.,dno,11
+ How is the? That was a pretty average soon as about be sometimes. Sometimes they house around that area  so 3.0.,sno,11
+ Not as much as I liked. I tried to join the tennis team but it closed down so I really don't have the opportunity.,n-d,11
+ My greatest personal attribute. ,sno,11
+Man.,fe,11
+That's a really tough on.,sno,11
+An element.,sno,11
+ I mean  I guess my curiosity and my eagerness to learn new things that interest me.,so,11
+Alright  I'll call it  but no.,ack,11
+ Probably my motivation  I said that needs to be improved a lot.,sno,11
+ I do. I say I'm doing alright  it's not. I say I'm not doing awful  but I'm not doing amazing either.,y-d,11
+ Uh  should father superhero. I think I just wrote my actual name. You know Dylan? I really need a superhero name. My power. I'll clabby indestructible 'cause that's cool. Marge nemesis I don't know if I was some dictator in the country.,so,11
+ Don't give up. It always gets better in the end  and if you don't get better then it's not the end.,sno,11
+ I'm I do. It's like LAX  relax. But it's also like work intensive where there's a lot of work  but it didn't feel like it was a lot of work. Friendly coworkers is also a huge plus.,sno,11
+ I. I'm sorry  I can't really think of any difficult decisions I have to make over the top of my head.,fa,11
+ Probably at school. Because. I want to teach always tries to make me do like. Projects other people rather be alone. 'cause 'cause I can't rely on anyone. So what I do I just. I just suck it up.,sno,11
+ I would say ma'am. I think you misread the document. 'cause here the real numbers yeah.,sno,11
+ Add a team member who didn't really do any work or like he was being a little lazy  so I just went up to him. I just gave him straight OK. You know  kind of help  so if you don't want to. Get on the grind a little bit that be great and he said OK. I'm sorry and then yeah I just talked it out.,sno,11
+ I want to. ,sno,11
+Why not the move?,query,11
+At the move I handled it  I have a fairly well. ,sno,11
+ I guess I didn't like it at first  but I just got used to my new environment.,dno,11
+ I work with a diverse group right now.,sno,11
+ No  I do not regretfully.,n,11
+ Um? ,ack,11
+ Or how are the people like? ,query,11
+ What benefits am I going to be getting?  What?  What's your Department? ,query,11
+ Will I be getting free?  Like health insurance. ,query,11
+ No  that's not what I'm asking.  No  I don't have any other questions. ,n,11
+ My name is {personName}.,sno,12
+ Yes.,y,12
+ Yes.,y,12
+ Yes.,y,12
+ I don't know.,dno,12
+ I don't know yet.,dno,12
+i worked on,sno,12
+ I worked on art  drawing  coloring and other stuff.,sno,12
+ Maybe math?,sno,12
+ Because of addition and subtraction.,sno,12
+ Maybe Asian bees? Maybe A's and B's.,dno,12
+ Yes I did.,y,12
+ I don't know.,dno,12
+ I don't know.,dno,12
+ I don't know yet.,dno,12
+ I don't know it yet.,dno,12
+ I don't know yet.,dno,12
+ Maybe getting good grades?,dno,12
+ I don't know.,dno,12
+ I don't know.,dno,12
+ Maybe nothing.,dno,12
+ I don't know.,dno,12
+ I don't know.,dno,12
+ I do not know it yet.,dno,12
+ Maybe in the morning?,dno,12
+ Yes.,y,12
+ Um  no. ,n,12
+ My name is {personName}.,sno,15
+ That sounds great  thanks.,sno,15
+ I have some prior work experience. I've done internships that helped me prepare for this work experience and I think they've been good and beneficial  but that's about the extent of my work experience so far.,sno,15
+ So what I've done before is  it was in an office setting and kind of sort of what I had to do was just. Organizational stuff getting you select out. His office things works and it was. It was the same type of stuff as this. Learn stuff works too. That's fun. I think it's helpful.,sno,15
+ Yes  I've been using Microsoft Word as well as Google sheets.,y-d,15
+ I'd say I'd rate it pretty well.,so,15
+ I'm not like amazing superstar  but I can do it fine at Sam. Pretty proficient in most of the. The things that it does.,sno,15
+ I've been using it for several years. Think mercy since like. I had to start writing papers  think middle school times. I've been using it since then and I haven't really stopped. Zach is doing similar stuff with me.,sno,15
+ I guess I have used. Microsoft XLS well as the Google program think that indeed we will sheets the other ones. I haven't. Not as much as I have with word processors  but I had that experience.,sno,15
+ I'd say I'm pretty proficient  I know how they work  sort of  but I'm not proficient with that same word.,sno,15
+ I think I've been using that for at least five years  but pretty infrequently.,sno,15
+ Um  from my prior work experience  I used to spend probably. Maybe a solid like 10 hours a week doing that. That wasn't online did though I did several things.,sno,15
+ Yeah  I can do that.,y,15
+so one,sno,15
+ Um  the project that I did was. Filling out peoples names and reaching out to people for a fund raising event for this nonprofit that worked for anyways. Just entering a bunch of names into there and organizing it based on address phone. Like I respect if they are all of that stuff and it was  it was pretty time consuming  but I'd say it was worth it.,sno,15
+ I think I enjoyed probably history mentioned school or music  even though I didn't have music. Mr. Time  I think my base subject that I enjoyed most made in history from enemies. Humanities.,sno,15
+ I enjoy mostly just learning about different things that have happened in different lessons that we can take away from history. What we can learn. History I'm enjoying learning to that as well as just facts and interesting tidbits.,sno,15
+ Generally I got good grades like mostly Asian bees. I think my high school experience. I got about 3.5 GPA.,sno,15
+ I did a few sports in school.,sno,15
+ I think my greatest personal attribute is my willingness  my commitment. To get a job done. As well as loyalty and humility  I will take whatever does. So like do something for a certain objective. And I usually try not to make a big deal out of things.,so,15
+ I think maybe sometimes my work ethic isn't quite as good. I think time management is something I've always struggled with. In something that I would like to learn and probably need to learn to get better at.,so,15
+ I'd say I did for me pretty well.,so,15
+ That's a good question. I think my name. I'm not really sure what my name would be. I think it might be. Ice mankind because I can. Get some flash power and also shoot I some people. And. That would be my main power as well as having cave and stuff in my iceman  my enemy. Would be. A fire breathing demon goddess is used to destroy everything that I like.,sno,15
+ That's a good one  I think. Probably the best advice is just don't give up. Always believe that things will workout and that things will workout and acting. That is true in my own life and. Try to believe it and try to apply it to everything I do.,sno,15
+ I think it's good for me because sometimes if I get like dejected or like  I feel like I can't do it. It's just remembering that. This all this is only like my favorite. Things will eventually be past. This is just get through this and you'll be done and will be so so worth it once you get it done.,so,15
+ Hey  my ideal work environment is pretty. I'd say relax  not to like uptight  but also one where people. I can give up constructive criticism and pointers that can help you be the best version of yourself you can be and that you can ultimately perform at the best level that you need to. So one that builds up on it doesn't break you down.,sno,15
+ I think maybe definitely. On choosing. Where to go to school? I had desires to do one thing. But another opportunity seemed better and excited to pursue that opportunity. And when it was hard to leave the other opportunities to close that door  I knew that. No one that sound itself to me is going to be the best  and so even though it's hard to. We're going to do that. I knew that there would be better things waiting ahead.,sno,15
+ I think sometimes when I'm out of my comfort zone  it's in new environments with new people is I don't actually adapt to new environments very well. And one thing that I have done. Back usually working out like getting acclimated slowly. I'll feel like I really feel like I don't have to or I shouldn't. I really feel like I shouldn't have to rush into everything in order to enjoy myself and eventually everything will workout and I'll be fine.,sno,15
+ I think I would probably let him know that he's made the mistake. And then try and maybe write some correction.,sno,15
+ {personName},sno,16
+ Yes.,y,16
+ I do.,sno,16
+ Yes  I've used Microsoft Word and Microsoft PowerPoint.,y,16
+ No.,n,16
+ I have not worked on any sort of projects recently.,sno,16
+ Communication theory.,sno,16
+ It was interesting learning the different studies of communications.,sno,16
+ Bees and aids. And days. I got bees and AA.,sno,16
+ I was a part of the creative writing Club.,sno,16
+ My creativity.,sno,16
+ My. Social anxiety.,sno,16
+ Pretty good.,so,16
+ Hi my name is Athena. ,fp,16
+My superpower is flight.,sno,16
+ And my arch nemesis is the bomber.,sno,16
+ Don't give up.,sno,16
+ It helps me motivate myself.,sno,16
+ A relaxed environment.,sno,16
+ Nothing comes into mind.,sno,16
+ There was a time involving the dentist and something was different  but I was able to handle it by breathing.,sno,16
+ I would quickly tap you on the shoulder and say that's the wrong number.,sno,16
+ There was one time. When? An involve someone who. Wanted a day off and asked me to cover and I was upset at first about it  but then I apologized and they were able to still get their day off.,sno,16
+ Usually when it comes to my mom getting a new car. I was able to handle it by writing it for a bit.,sno,16
+ There was one time where I was doing a project with these two people. Then we were able to get along. Because we were able to talk about regular stuff.,sno,16
+ We were because we were able to talk about our research and. Us and about our regular lives.,so,16
+ Yes.,y,16
+ No. ,n,16
+ Feed button corner. Be back in court. Christmas.,sno,17
+ Yep.,y,17
+ I volunteered for. My band. 4:00 AM. No  I volunteered for my band to do a food service.,sno,17
+ Yes  I used Word document. XL. PowerPoint. Yes  I've used word  Excel and PowerPoint.,y-d,17
+ On a scale of 1 to 10  probably 8 out of 10.,sno,17
+ About five years now.,sno,17
+ Yes  I've used Microsoft Excel.,y-d,17
+ I'd say I'm quite proficient.,sno,17
+ About five years now.,sno,17
+ About five to 10 hours per week.,sno,17
+ Yes  most likely.,y,17
+ I can't remember if I have.,dno,17
+ During. History.,sno,17
+ I enjoyed learning what people did in the past so that I don't make the same mistakes.,sno,17
+ Mostly a user views. Mostly A's and a few. Mostly AIDS and Phoebe. Mostly aids in a few days.,sno,17
+ I participated in the marching band  the concert band and I participated in the play.,sno,17
+ I'm very hard working.,sno,17
+ Not tearable,sno,17
+ I don't know what my super name  my superhero name would be  but my superpower would probably be a shapeshifting and my arch nemesis would probably be someone who like combats that pretty well. So  like someone is very smart and can like. Constrict me and make me not. Thank you. I don't know what my superhero name would be  but my superpower would be shapeshifting and my arch nemesis would probably have to be someone who would be able to constrict me from doing my thing.,dno,17
+ Probably I believe in you don't give up.,sno,17
+ It just reminds me that people do believe in me and care about me and that they want to see me succeed.,sno,17
+ Not something hectic  but there's not too little work.,sno,17
+ I had multiple assignments due back to back to back on the same day and I had to prioritize the assignments over each other and I. Managed care at all. I had multiple assignments due back to back to back on the same day and I had to figure out which assignments to do first.,sno,17
+ I I was in a public setting and I didn't want to be there anymore because they were talking about topics I didn't want to talk about. So I just like came up with an excuse that I had to go to the bathroom and I just left and did not go back.,sno,17
+ I would calmly. Correct you in a way that wouldn't be. I would calmly correct you in a way that would not come off as disrespectful.,sno,17
+ In marching Band Camp  one of my band members was acting up and he would not stop acting up after I told him that if he wouldn't he would have to run laps and he continued and I made him run laps. How do you stop? There was a time in marching band Camp when a band member was acting up and I told him repeatedly to stop it and he wouldn't. So I made him run laps.,sno,17
+ I experienced a lot of change over this past summer and I had to completely re-evaluate all my. Thoughts and beliefs and it was difficult  but I managed to get through it. I experienced a great change over this summer and I had to completely. Redo all of my thoughts from leaves. Experience change over the summer and I had to completely scrap all of my thoughts and beliefs I had before and rebuild it from the ground up and it was very hard  but I've managed to do it.,sno,17
+ I was a section leader for my marching band for my section  the French horns and. The other section leaders kept bringing. I was the section leader for the French horns in my marching band and the other section leaders kept bringing me over to help them with their sections and they did that because I was very good at like handling other people and keeping them like in line suppose.,sno,17
+ Now we in the end we got to where we were supposed to be for the marching band. Set up the show. And that was really good. Yeah  in the end we got to where we needed to be in the marching band show and it was all thanks to everyones like work ethic and. We eventually got to a point in the marching band show where we were all very proud of it and it was all thanks to everyone to work ethic and time that they had put in.,sno,17
+ No  I do not.,n,17
+ No  not talk with my heart.  No  not off the top of my head. ,n-d,17
+{personName}.,sno,19
+ Yes.,y,19
+ No.,n,19
+ I use Microsoft Word.,sno,19
+ Yes  I've used Microsoft Excel.,y,19
+ Not that professional.,n,19
+ Not that long.,n,19
+0,sno,19
+ Yes.,y,19
+ I made a graph in school project.,sno,19
+ Sociology and computer science.,sno,19
+ Because I liked working with computers.,so,19
+ Even see sometimes it is.,sno,19
+ No  I didn't participate in any.,n,19
+ I. AM. I'm always able to try and learn new things and I'm a quick learner.,sno,19
+ My social skills.,sno,19
+ Find.,sno,19
+ I like my superpower to be. Superstrat in my heart and this would be. People who are bad and my name would be. Strongly.,sno,19
+ I don't know.,dno,19
+ Relax. And helpful.,sno,19
+ When I had to choose what classes to take.,sno,19
+ I was out of my comfort zone once when. Bunch of people showed up at my house for a party. And I handled it by being in my room most of the time.,sno,19
+ Raise my hand and tell you.,sno,19
+ I was doing a project with someone and they weren't doing any other work. So I just take the word for it.,sno,19
+ When I had to change from an from the Apricity school that online,sno,19
+order now?,query,19
+No.,n,19
+Now.,sno,19
+No.,n,19
+Yes.,y,5
+No.,n,5
+ I've used Microsoft Word.,sno,5
+ I have not had any experience using those.,n,5
+ I haven't had any experience using those. So I don't have.,n,5
+ Never.,n,5
+0,sno,5
+ Yes.,y,5
+ I worked on making a game board for my psychology class and.,sno,5
+History,sno,5
+ The stories behind all the people that.,sno,5
+ A.,sno,5
+ No.,n,5
+ My hard work's work ethic.,sno,5
+ My focus.,sno,5
+ Not very well.,n,5
+ Black Amethyst the ability to stop time.,sno,5
+ act like you're personally involved with your work.,sno,5
+ Because it gives me a harder work ethic.,sno,5
+ An environment where the work is doable but not too stressful.,sno,5
+ No.,n,5
+ I spicy food but never  never in space. If you would before.,sno,5
+ Yes.,y,5
+ Never.,n,5
+ On the psychology game quiz  I worked with multiple people.,sno,5
+ Yes.,y,5
+ No.,n,5
+ No. ,n,5
+ I'm my name is {personName}.,sno,14
+ Yes  sounds good.,y,14
+Done currently.,sno,14
+  No.,n,14
+ Absolutely.,y,14
+ I've used Microsoft Word before.,sno,14
+ I'd say maybe about 8 out of 10.,sno,14
+ Hard to tell.,sno,14
+ Maybe like 6-7 years.,sno,14
+ I've used Microsoft Excel once  but that was because of a misconception.,sno,14
+well we've,sno,14
+ We've worked on and research projects before about specific people in the past.,sno,14
+ I enjoyed writing. It was fun. Did tell stories. I enjoyed creative writing.,sno,14
+ Creative writing allowed me to tell how unique stories is. I really enjoyed that. At end  well  it just gotta wait. Hold on. I enjoyed creative writing thing because it allowed me to tell stories. Please give me a prompt and I can make whatever I want out of it.,sno,14
+ I got pretty decent grades. It's they. They were pretty good.,sno,14
+ I participated in both band and choir previously  though I'm not enrolled in them anymore.,sno,14
+ I guess my greatest personal attribute is to be able to listen and take multiple sides of the story  and I guess kind of well. Hold on. And my best personal attributes is definitely too like remain charismatic and listen in on things. I guess right now. My best personal attribute is 2. My best personal attribute is to remain open minded. I guess I can listen in on both sides of the story and kind of get a consensus going.,sno,14
+ Definitely my focus. I struggle with that a lot. Definitely my focus. I struggle with that a bit  but I'm getting better at that.,sno,14
+ Maybe had nine out of 10. ,so,14
+I could definitely do better in some parts.,sno,14
+ Eljay cheeky question. They're tricky  right? Sure  alright. And. Motivator here Ali I feel like. Motivator I would inspire other people to get going and maybe they provide like energy boosters and something. And I guess my enemy would be like demotivators so something like probably something to do along like negativity and bad emotions and doubt.,query,14
+ Don't take criticism from someone you wouldn't take advice from.,sno,14
+ My name?,query,21
+ Yes.,y,21
+ I don't think so.,sno,21
+ Probably Apple.,sno,21
+ Apple.,sno,21
+ I've just done some daycamp stuff from the past.,sno,21
+ Math  mostly an art. Really great art.,sno,21
+ I was really good.,sno,21
+ Mostly Asian bees. Rarely sees. But mostly Asian math.,sno,21
+Fiscal?,query,21
+ No  no  I said this.,n,21
+ I don't know because I'm not a person.,dno,21
+ Yes  great art.,y-d,21
+ Hello canvas. Poorly. Little K yes Worley. It will care  yes  but morally.,sno,21
+ My superpower would be super strength. The Black Iron rider. And arch nemesis. Yes  some time.,sno,21
+ Get it right.,sno,21
+How do you ideals?,query,21
+Try to get ready.,sno,21
+ How do you like deals? ,query,21
+I like to do something and cleans and drawn art.,sno,21
+ Probably make you think of 1 right now.,sno,21
+ Bad.,sno,21
+ Exit. Netflix.,sno,21
+ {personName} apologizing.,sno,21
+ Alright  great Fortunately.,sno,21
+ I don't know.,dno,21
+ No  I do not have a drivers license that we really do wish that did.,n-d,21
+ Yeah  how do I get an art job?  Close to the town. ,query,21
+ Hello gene.,fp,22
+ My name is {personName}.,sno,22
+ Yes  ma'am.,y,22
+ Yes  ma'am.,y,22
+ I used to work at a supermarket.,sno,22
+ I have used Microsoft Word in the past.,sno,22
+ I am proficient with Microsoft Word.,sno,22
+ I've been using Microsoft Word for around 10 years.,sno,22
+ I've. Pardon me  I have used Microsoft Excel in the past.,sno,22
+unfortunately,sno,22
+ I have not worked on any such projects.,sno,22
+ Science.,sno,22
+ You can learn all about many different themes such as space and planets.,sno,22
+ I have averaged eggs in my science classes.,sno,22
+ Yes ma'am  I have participated in board game clubs and school plays.,y-d,22
+ Mary create.,sno,22
+ I could work on being a better team player.,sno,22
+ I think I am doing well.,so,22
+ My name is the green ogre. My superpower is superstring. And my arch nemesis is Farquaad from Shrek.,sno,22
+ The day you stop learning something is the day you die.,sno,22
+ It would be positive  respectful and create.,sno,22
+ One time there was a rude customer at the supermarket. She was very rude and I helped her and then she was no longer root.,sno,22
+ One time there was a rude customer at a supermarket I helped her and then she was nice.,sno,22
+ I would correct the mistake.,sno,22
+ One time there was a rude coworker at a supermarket. I told them I had a problem with them and they apologized.,sno,22
+ Sometimes there are new company policy's at the supermarket. I fixed it with or.,sno,22
+ I work with many different people at the supermarket.,sno,22
+ Yes  ma'am I do.,y,22
+ What will I be doing at the job? ,query,22
+ No  ma'am  no other questions. ,n-d,22
+{personName}.,sno,23
+ Yes.,y,23
+ Yes  working in office.,y,23
+ Microsoft Word.,sno,23
+ Microsoft Excel.,sno,23
+yes,y,23
+ Data entry.,sno,23
+ Art.,sno,23
+ Listen my creativity.,sno,23
+ Please.,query,23
+ Not sure.,dno,23
+ Hey Ashley.,fp,23
+No  very badly.,n,23
+ Night  yeah?,y,23
+ Unsure.,dno,23
+I'm sure.,y,23
+ Relaxing. ,sno,23
+Hey Cortana.,fp,23
+Not like a family.,n,23
+Like a family.,sno,23
+ Yeah.com no  I don't know.,dno,23
+ Not sure.,dno,23
+ Tell you that mistake.,sno,23
+ Not sure.,dno,23
+ I sometimes don't handle change well.,sno,23
+ I I don't know.,dno,23
+ No  I do not.,n,23
+ What is my job entail? ,query,23
+ I'm {personName}.,sno,24
+ It does.,sno,24
+ I was a counselor in training when I was 15.,sno,24
+ I'm not really experienced with Microsoft or Apple.,sno,24
+ I don't really have any experience with either of those phones.,sno,24
+ Probably a 55.,sno,24
+ I haven't really been busy.,sno,24
+ I think I would spend two or three hours.,sno,24
+ No  but I can try.,n-d,24
+i haven't,sno,24
+ I don't really work for a team 'cause I'm not really experienced with. 13 A team game.,sno,24
+ I was always a fan of science.,sno,24
+ I was enjoying learning about our planet. And the weather.,sno,24
+ Play zombies. The great site recently received word. Says an employee. When I was meant for it  I've always received good grades.,sno,24
+ No. I didn't. I didn't really participate. Types of experiences.,n-d,24
+ My greatest strength was intelligence.,so,24
+ Working on better using social skills and communication.,sno,24
+I think I'm enjoying my interview.,so,24
+ Spiderman. I have power to the spider and my arch nemesis is done. My superhero name is Spiderman. I had a spider powers and my arch nemesis is Burnham and Carnage.,sno,24
+ My mentor gave me advice on not giving up.,sno,24
+ My device actually motivates me to inactive and not find anybody and myself.,sno,24
+ You kinda meteorologist and. Meteorologie,sno,24
+ giving up electronics for about 24 hours.,sno,24
+ I went bungee jumping when I was 11 years old. I was afraid of Heights  but I got over my fear by just taking the jump. Elite buffet. A leap of faith.,sno,24
+ I would actually just learn from that mistake. Or ask for somebody to help you.,sno,24
+ Had to better improve my patience. And not be negative.,sno,24
+ It actually happened when I was rearranging my room.,sno,24
+ When I was a countdown forming out of summer camp.,sno,24
+ Camera successful because they give supports. Hey guns.,sno,24
+ No.,n,24
+ I don't really have any questions  so I'm good. ,sno,24
+{personName},sno,20
+ Yes  done.,y,20
+ Yes I do.,y,20
+ We can't Miss Girl 10 out of 10.,sno,20
+ For a really long time.,sno,20
+ I have used all of them.,sno,20
+ Very proficient.,sno,20
+ For a really really  really long time.,sno,20
+ We're like ours. For like hours.,sno,20
+ 24 hours. Every day. 24 hours every day.,sno,20
+ I've worked on several projects with other people.,sno,20
+ All subjects. In school. Also Jackson school. All subjects at school.,sno,20
+ I liked all the subjects at school because. I've learned from all. I like all these subjects because I've learned from all of them.,sno,20
+ Hi great  this is 119th I think yeah. I've got 190. I've got hundreds and 90. 1900s and 90s on. 119 on every score of a test.,sno,20
+ Every activity.,sno,20
+ Helping others  being kind and helping others. Being kind in helping others.,sno,20
+ Trying my best to be on time and work really  really hard.,sno,20
+ I think I'm doing it very well.,so,20
+ My best advice would be. You always try your best.,sno,20
+ Because it would help me in the future if I failed  I'll try again.,sno,20
+ Ideal work environment would be. Helping out I'll be helping out. Until environment would be helping out. Environment would be. Helping out,sno,20
+ don't make it on time well. The time I had to make a difficult decision. Was when I had. To this  one had to decide. 9. Well  major. It was when I choose between. Being at school or not going to school.,sno,20
+ Cortana is on my comfort zone was. Afraid of being left out.,so,20
+ Steak. He could try again. I'm certain you'll get it right.,sno,20
+ The time other deal was a difficult team member is when. Is when they argued with me and I told and I resolved it. By talking it out with them.,sno,20
+ I meant change by adapting to it. Without any problem.,sno,20
+ The time I worked with the first group. Is when I work with them on a team.,sno,20
+ Yes  because. They helped me learn. About what working is all about.,y-d,20
+ No  not yet.,n,20
+ No  no questions at all.  No questions at all. ,n,20
